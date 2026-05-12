@@ -1,0 +1,7 @@
+nicegui
+numpy
+pandas
+pyvisa
+pyvisa-py
+plotly
+openpyxl

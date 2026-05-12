@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+*.csv
+*.xlsx
+*.log
+
+Keithley_MPPT_Data/
+data/
+output/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
