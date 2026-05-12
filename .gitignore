@@ -7,6 +7,8 @@ venv/
 *.xlsx
 *.log
 
+raw_csv/
+backups/
 Keithley_MPPT_Data/
 data/
 output/
